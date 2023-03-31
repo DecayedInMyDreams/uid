@@ -1,3 +1,3 @@
-return uids = {
+local uids = {
 350167333
 }
